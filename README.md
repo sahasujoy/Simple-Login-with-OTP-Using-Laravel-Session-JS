@@ -4,7 +4,7 @@ Some special features of this project:
 - Only two times OTP verification using session
 - Remaining time visualization
 - Responsive timer using vanilla JS
-NOTE:: Visit Routes and Resources Only!
+<p> NOTE:: Visit Routes and Resources Only! </p>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
